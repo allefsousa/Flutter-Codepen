@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutterstack/stack_widget.dart';
+import 'package:flutterstack/widget/stack_widget.dart';
 
 void main() {
   runApp(MyApp());
